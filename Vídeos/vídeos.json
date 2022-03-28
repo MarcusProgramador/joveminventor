@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         11,
-        4,
+        5,
         1
     ],
     "data": [
@@ -18,6 +18,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -32,6 +35,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -39,13 +45,16 @@
                 "videos 3"
             ],
             [
-                "Aprenda e divirta-se."
+                ""
             ],
             [
                 "https://marcusprogramador.github.io/joveminventor/V%C3%ADdeos/youtube.png"
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -60,6 +69,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -74,6 +86,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -88,6 +103,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -102,6 +120,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -109,13 +130,16 @@
                 "videos 8"
             ],
             [
-                "vídeo 8 aqui!"
+                ""
             ],
             [
                 "https://marcusprogramador.github.io/joveminventor/V%C3%ADdeos/youtube.png"
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -130,6 +154,9 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -144,9 +171,15 @@
             ],
             [
                 "new"
+            ],
+            [
+                ""
             ]
         ],
         [
+            [
+                "n/d"
+            ],
             [
                 "n/d"
             ],
