@@ -1,33 +1,16 @@
 {
-    "c2array" : true ,
-    "tamanho" : [
-        9 ,
-        5 ,
+    "c2array": true,
+    "size": [
+        2,
+        5,
         1
     ],
-    "dados" : [
+    "data": [
         [
             [
                 "Pong"
             ],
             [
-                " "
-            ],
-            [
-                "https://marcusprogramador.github.io/joveminventor/divers%C3%A3o/discordia.png"
-            ],
-            [
-                "new2"
-            ],
-            [
-                "https://marcusprogramador.github.io/pong/"
-            ]
-        ],
-        [
-            [
-                "Teste"
-            ],
-            [
                 ""
             ],
             [
@@ -37,24 +20,7 @@
                 "new2"
             ],
             [
-                ""
-            ]
-        ],
-        [
-            [
-                "Teste1"
-            ],
-            [
-                " "
-            ],
-            [
-                "https://marcusprogramador.github.io/joveminventor/divers%C3%A3o/discordia.png"
-            ],
-            [
-                "new2"
-            ],
-            [
-                " "
+                "https://marcusprogramador.github.io/pong"
             ]
         ],
         [
@@ -72,91 +38,6 @@
             ],
             [
                 "n/d"
-            ]
-        ],
-        [
-            [
-                " Você Sabia "
-            ],
-            [
-                " "
-            ],
-            [
-                " https://marcusprogramador.github.io/joveminventor/V%C3%ADdeos/youtube.png "
-            ],
-            [
-                " "
-            ],
-            [
-                " "
-            ]
-        ],
-        [
-            [
-                " The Q  "
-            ],
-            [
-                " "
-            ],
-            [
-                " https://marcusprogramador.github.io/joveminventor/videos/The%20Q.png "
-            ],
-            [
-                " "
-            ],
-            [
-                " "
-            ]
-        ],
-        [
-            [
-                " Área Secreta "
-            ],
-            [
-                " "
-            ],
-            [
-                " https://marcusprogramador.github.io/joveminventor/videos/area%20secret.png "
-            ],
-            [
-                " "
-            ],
-            [
-                " "
-            ]
-        ],
-        [
-            [
-                " n/d "
-            ],
-            [
-                " n/d "
-            ],
-            [
-                " n/d "
-            ],
-            [
-                " n/d "
-            ],
-            [
-                " n/d "
-            ]
-        ],
-        [
-            [
-                " título "
-            ],
-            [
-                " descrição "
-            ],
-            [
-                " img "
-            ],
-            [
-                " link para onde vai "
-            ],
-            [
-                " link do conteudo "
             ]
         ]
     ]
