@@ -1,0 +1,21 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Manual Maker - Projetos"
+            ],
+            [
+                "Aprenda a mexer em ferramentas, a construir circuitos de Eletrônica, montar projetos em Arduino, impressora 3D, corte a laser e muito mais!\n\nNesta playlist estão os vídeos do curso Manual Maker e dos projetos que fizemos depois."
+            ],
+            [
+                "https://www.youtube.com/embed/5JxN3ELqo9I?list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy"
+            ]
+        ]
+    ]
+}

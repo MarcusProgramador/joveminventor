@@ -1,0 +1,78 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        5,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Submarino do Manual do Mundo"
+            ],
+            [
+                ""
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/youtube.png"
+            ],
+            [
+                "new"
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/Manual%20do%20Mundo/submarino.json"
+            ]
+        ],
+        [
+            [
+                "Manual Maker"
+            ],
+            [
+                ""
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/youtube.png"
+            ],
+            [
+                "new"
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/Manual%20do%20Mundo/curso%20maker.json"
+            ]
+        ],
+        [
+            [
+                "Boravê - Viaje com o Manual do Mundo! "
+            ],
+            [
+                ""
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/youtube.png"
+            ],
+            [
+                "new"
+            ],
+            [
+                "https://marcusprogramador.github.io/joveminventor/videos/Manual%20do%20Mundo/borave.json"
+            ]
+        ],
+        [
+            [
+                "n/d"
+            ],
+            [
+                "n/d"
+            ],
+            [
+                "n/d"
+            ],
+            [
+                "n/d"
+            ],
+            [
+                "n/d"
+            ]
+        ]
+    ]
+}
